@@ -130,7 +130,7 @@ if __name__ == "__main__":
     print('此工具可以通过HTTP post请求网站上传接口上传文件，支持http/https。 请确保上传接口输入正确！')
     print('启动后等几秒持续提示 \"<Response [200]>\" 就是已经在工作了')
     print('作者: haha44444')
-    print('Github: ')
+    print('Github: https://github.com/haha44444/KillYou-pro')
     input_url()
     # global count, shit_file_name, shit_file_size, url
     create_shit_file()
