@@ -1,4 +1,4 @@
-### English | [中文简体](https://github.com/haha44444/KillYou-pro/blob/master/README_zh-cn.md)
+### English | [中文简体](./README_zh-cn.md)
 # Rubbish file upload tool
 * Upload files through HTTP post request website upload interface, support http/https.
 * You can use this thing to smash your friend’s small website to pieces (lol).
