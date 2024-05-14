@@ -1,4 +1,4 @@
-### [English](https://github.com/haha44444/convertVirtualDisks/blob/master/README.md) | 中文简体
+### [English](./README.md) | 中文简体
 # 垃圾文件上传工具
 * 通过HTTP post请求网站上传接口上传文件，支持http/https
 * 你可以用这个东西把朋友搭的小网站干碎（逃）
